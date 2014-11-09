@@ -3,6 +3,7 @@ JabbR is a chat application built with ASP.NET using SignalR.
 
 ![jabbr.net](https://raw.githubusercontent.com/JabbR/JabbR/ea5a15e6bc8c0d5dba2a69053c340e8c4755459e/Content/images/screenshot.png)
 
+
 ### Features and Bugs
 If you want to discuss the features join discussion in the [meta](https://jabbr.net/#/rooms/meta) room on jabbr. 
 
@@ -62,3 +63,6 @@ To perform your first build, grab the source, and open a visual studio command p
 
 #### Getting Involved
 We welcome contributions from experienced developers.  You can get involved by logging bugs in github, hacking on the source, or discussing issues / features in the [meta](https://jabbr.net/#/rooms/meta) room.
+
+#### Deploy to Azure
+<a href="https://azuredeploy.net/" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
